@@ -23,7 +23,9 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1><img src="video-player.png" alt="Video Player Icon">Show Finders</h1>
+      <h1>Show Finders</h1>
+    // <img src="video-player.png" alt="Video Player Icon">
+    
 
       <div className="search">
         <input
