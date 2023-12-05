@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Shows Sphere</h1>
+      <h1><img src="ico.png">Show Finders</h1>
 
       <div className="search">
         <input
